@@ -1,0 +1,8 @@
+D:\simplilearn\day-11\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\ConsoleAppLoops.exe.config
+D:\simplilearn\day-11\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\ConsoleAppLoops.exe
+D:\simplilearn\day-11\ConsoleAppLoops\ConsoleAppLoops\bin\Debug\ConsoleAppLoops.pdb
+D:\simplilearn\day-11\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.csproj.AssemblyReference.cache
+D:\simplilearn\day-11\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-11\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-11\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.exe
+D:\simplilearn\day-11\ConsoleAppLoops\ConsoleAppLoops\obj\Debug\ConsoleAppLoops.pdb

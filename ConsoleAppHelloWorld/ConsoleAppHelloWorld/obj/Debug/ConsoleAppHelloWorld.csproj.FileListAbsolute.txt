@@ -1,0 +1,8 @@
+D:\simplilearn\day-11\ConsoleAppHelloWorld\ConsoleAppHelloWorld\bin\Debug\ConsoleAppHelloWorld.exe.config
+D:\simplilearn\day-11\ConsoleAppHelloWorld\ConsoleAppHelloWorld\bin\Debug\ConsoleAppHelloWorld.exe
+D:\simplilearn\day-11\ConsoleAppHelloWorld\ConsoleAppHelloWorld\bin\Debug\ConsoleAppHelloWorld.pdb
+D:\simplilearn\day-11\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\ConsoleAppHelloWorld.csproj.AssemblyReference.cache
+D:\simplilearn\day-11\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\ConsoleAppHelloWorld.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-11\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\ConsoleAppHelloWorld.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-11\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\ConsoleAppHelloWorld.exe
+D:\simplilearn\day-11\ConsoleAppHelloWorld\ConsoleAppHelloWorld\obj\Debug\ConsoleAppHelloWorld.pdb

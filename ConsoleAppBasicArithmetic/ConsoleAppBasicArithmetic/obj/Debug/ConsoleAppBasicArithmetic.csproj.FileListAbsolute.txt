@@ -1,0 +1,8 @@
+D:\simplilearn\day-11\ConsoleAppBasicArithmetic\ConsoleAppBasicArithmetic\bin\Debug\ConsoleAppBasicArithmetic.exe.config
+D:\simplilearn\day-11\ConsoleAppBasicArithmetic\ConsoleAppBasicArithmetic\bin\Debug\ConsoleAppBasicArithmetic.exe
+D:\simplilearn\day-11\ConsoleAppBasicArithmetic\ConsoleAppBasicArithmetic\bin\Debug\ConsoleAppBasicArithmetic.pdb
+D:\simplilearn\day-11\ConsoleAppBasicArithmetic\ConsoleAppBasicArithmetic\obj\Debug\ConsoleAppBasicArithmetic.csproj.AssemblyReference.cache
+D:\simplilearn\day-11\ConsoleAppBasicArithmetic\ConsoleAppBasicArithmetic\obj\Debug\ConsoleAppBasicArithmetic.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-11\ConsoleAppBasicArithmetic\ConsoleAppBasicArithmetic\obj\Debug\ConsoleAppBasicArithmetic.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-11\ConsoleAppBasicArithmetic\ConsoleAppBasicArithmetic\obj\Debug\ConsoleAppBasicArithmetic.exe
+D:\simplilearn\day-11\ConsoleAppBasicArithmetic\ConsoleAppBasicArithmetic\obj\Debug\ConsoleAppBasicArithmetic.pdb

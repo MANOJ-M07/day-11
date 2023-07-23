@@ -1,0 +1,8 @@
+D:\simplilearn\day-11\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\ConsoleAppExceptionHandling.csproj.AssemblyReference.cache
+D:\simplilearn\day-11\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\ConsoleAppExceptionHandling.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-11\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\ConsoleAppExceptionHandling.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-11\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\bin\Debug\ConsoleAppExceptionHandling.exe.config
+D:\simplilearn\day-11\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\bin\Debug\ConsoleAppExceptionHandling.exe
+D:\simplilearn\day-11\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\bin\Debug\ConsoleAppExceptionHandling.pdb
+D:\simplilearn\day-11\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\ConsoleAppExceptionHandling.exe
+D:\simplilearn\day-11\ConsoleAppExceptionHandling\ConsoleAppExceptionHandling\obj\Debug\ConsoleAppExceptionHandling.pdb

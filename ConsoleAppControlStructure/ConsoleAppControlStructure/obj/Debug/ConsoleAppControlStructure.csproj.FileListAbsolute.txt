@@ -1,0 +1,8 @@
+D:\simplilearn\day-11\ConsoleAppControlStructure\ConsoleAppControlStructure\bin\Debug\ConsoleAppControlStructure.exe.config
+D:\simplilearn\day-11\ConsoleAppControlStructure\ConsoleAppControlStructure\bin\Debug\ConsoleAppControlStructure.exe
+D:\simplilearn\day-11\ConsoleAppControlStructure\ConsoleAppControlStructure\bin\Debug\ConsoleAppControlStructure.pdb
+D:\simplilearn\day-11\ConsoleAppControlStructure\ConsoleAppControlStructure\obj\Debug\ConsoleAppControlStructure.csproj.AssemblyReference.cache
+D:\simplilearn\day-11\ConsoleAppControlStructure\ConsoleAppControlStructure\obj\Debug\ConsoleAppControlStructure.csproj.SuggestedBindingRedirects.cache
+D:\simplilearn\day-11\ConsoleAppControlStructure\ConsoleAppControlStructure\obj\Debug\ConsoleAppControlStructure.csproj.CoreCompileInputs.cache
+D:\simplilearn\day-11\ConsoleAppControlStructure\ConsoleAppControlStructure\obj\Debug\ConsoleAppControlStructure.exe
+D:\simplilearn\day-11\ConsoleAppControlStructure\ConsoleAppControlStructure\obj\Debug\ConsoleAppControlStructure.pdb
